@@ -1,8 +1,8 @@
 # Product Engineer | Full-stack Products, Mobile & Applied AI
 
-I build web and mobile products from the interface through the backend—and connect them with practical AI capabilities when they solve a real problem.
+I enjoy turning product ideas into complete web and mobile experiences. My work moves naturally between user interfaces, application logic, data, and the services that keep everything working together.
 
-Currently working as a **Product Engineer at iO Health**, where I help bring together product experiences, services, data, and AI models into complete applications.
+At **iO Health**, I work as a Product Engineer alongside product, engineering, and AI teams, shaping their different contributions into software that feels coherent to the people using it.
 
 [LinkedIn](https://www.linkedin.com/in/mohammad-shadid-0736b2247) · [Email](mailto:mohammadshadid03@gmail.com)
 
