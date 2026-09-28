@@ -18,8 +18,6 @@ At **iO Health**, I work as a Product Engineer alongside product, engineering, a
 
 ## What I am working with today
 
-At **iO Health**, I contribute to full-stack applications that combine user-facing experiences with backend services and models developed by AI teams. My work crosses web, mobile, APIs, data, integrations, and product decisions.
-
 My day-to-day engineering interests include:
 
 - Product architecture across frontend, backend, and service boundaries
