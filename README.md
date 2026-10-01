@@ -1,4 +1,4 @@
-# Product Engineer | Full-stack Products, Mobile & Applied AI
+# Product Engineer | Full-stack, Mobile & AI/ML Systems
 
 I enjoy turning product ideas into complete web and mobile experiences. My work moves naturally between user interfaces, application logic, data, and the services that keep everything working together.
 
@@ -10,9 +10,9 @@ At **iO Health**, I work as a Product Engineer alongside product, engineering, a
 
 ## How I approach engineering
 
-- **Own the whole flow** — I care about how the interface, API, data, and services behave as one product.
+- **Work across product layers** — My experience includes interfaces, APIs, data, and the services connecting them.
 - **Design for the person using it** — technical decisions should make the experience clearer, faster, and more dependable.
-- **Use AI with purpose** — I integrate AI and ML services into products where they provide useful, understandable value.
+- **Build with AI and ML** — I have worked with machine learning models, retrieval, LLM workflows, and AI agents.
 
 ---
 
